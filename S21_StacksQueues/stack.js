@@ -40,4 +40,4 @@ class Stack {
   }
 }
 
-const stack = new Stack();
+module.exports = Stack;
